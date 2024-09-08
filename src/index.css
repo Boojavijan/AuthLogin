@@ -1,0 +1,12 @@
+/* Global Styles */
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color: #28cf5a;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: 0 0 20px black, 0 0 30px #28cf5a, 0 0 40px #28cf5a, 0 0 50px #28cf5a, 0 0 60px #28cf5a, 0 0 70px 28cf5a, 0 0 80px 28cf5a;;
+  }
+  
